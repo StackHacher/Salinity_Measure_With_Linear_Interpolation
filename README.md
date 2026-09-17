@@ -58,4 +58,4 @@ int main() {
 5. Testing
 
 warning: this algorithm is actually wrong (used for representation), you can use the right c code here: 
-https://github.com/TakeTheStack/Salinity_Measure_With_Linear_Interpolation/blob/main/Salinity_M.c
+https://github.com/StackHacher/Salinity_Measure_With_Linear_Interpolation/blob/main/Salinity_M.c
